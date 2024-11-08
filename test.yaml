@@ -1,0 +1,17 @@
+number: 4
+list:
+- number
+- stroka
+- list3:
+  - 5
+  - 7
+- list4:
+  - 6
+list2: [qelem1, qelem2, qelem3]
+str: Hello World
+operation:
+  operand1: 2
+  operand2: 3
+  operator: +
+    
+
