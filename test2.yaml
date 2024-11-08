@@ -1,0 +1,10 @@
+grade: 8
+Laws:
+- Newton:
+  - 1 law of Newton
+  - 2 law of Newton
+  - 3 law of Newton
+- Energy conservation
+- Momentum conservation
+marks: [5, 2, 4]
+str: results
