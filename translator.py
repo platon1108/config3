@@ -23,6 +23,7 @@ with open(inputpath) as stream:
         inputdata = yaml.safe_load(stream)
     except yaml.YAMLError as exc:
         print(exc)
+        exit()
 IDs = []
 output = []
 for key in inputdata.keys():
