@@ -28,4 +28,16 @@
 Для константных вычислений определены операции и функции: cложение, вычитание, умножение, print().
 
 # Тесты
-[TODO]
+## Тест 1
+Входной файл: test1.yaml
+
+![image](https://github.com/user-attachments/assets/87131dda-dbb5-4762-abe7-1c239cf04072)
+## Тест 2
+Входной файл: test2.yaml
+
+![image](https://github.com/user-attachments/assets/568e5865-7d7c-4091-a952-95055b27da7a)
+
+## Тест 3
+Входной файл: test3.yaml
+
+![image](https://github.com/user-attachments/assets/30625ff3-2e20-4e4a-8be6-801bd8524427)
